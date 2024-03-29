@@ -1,7 +1,7 @@
 # Zone-H-Grabber
 
 ![logo](https://raw.githubusercontent.com/xzourt/Zone-H-Grabber/main/preview.png)
-Tools For Grabbing Site From Zone-H.<br/>
+Tools For Grabbing Site From Zone-H By @xzourt.<br/>
 
 ![python](https://img.shields.io/badge/Python-3.10.10-green?style=flat-square)
 ![licence](https://img.shields.io/badge/LICENE-GPL3.0-ebcb8b?style=flat-square)
@@ -16,3 +16,14 @@ Tools For Grabbing Site From Zone-H.<br/>
 - [x] **Grab From Special**
 - [x] **Grab From Onhold**
 - [x] **Grab From Notifier**
+
+## Usage
+### From command line:
+```bash
+python zone-h.py
+```
+**ZHE:** Enter Your ZHE
+**PHPSESSID:** Enter Your PHPSESSID
+
+## _License_
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
