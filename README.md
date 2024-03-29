@@ -17,8 +17,8 @@ Tools For Grabbing Site From Zone-H By @xzourt.<br/>
 - [x] **Grab From Onhold**
 - [x] **Grab From Notifier**
 
-## Usage
-### From command line:
+## _Usage_
+### _From command line:_
 ```bash
 python zone-h.py
 ```
