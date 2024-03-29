@@ -22,8 +22,8 @@ Tools For Grabbing Site From Zone-H By @xzourt.<br/>
 ```bash
 python zone-h.py
 ```
-**ZHE:** Enter Your ZHE
-**PHPSESSID:** Enter Your PHPSESSID
+- **ZHE:** Enter Your ZHE
+- **PHPSESSID:** Enter Your PHPSESSID
 
 ## _License_
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
