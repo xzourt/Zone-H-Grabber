@@ -27,7 +27,8 @@ python zone-h.py
 ```
 - **ZHE:** Enter Your ZHE
 - **PHPSESSID:** Enter Your PHPSESSID
-- **Note:** Using Python 3.10.xx
+
+**Note:** Using Python 3.10.xx
 
 ## _License_
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
